@@ -11,3 +11,5 @@ permalink: /
 {{ run.content }}
 
 {% endfor %}
+
+<small>[The Github repo for the data above is located here](https://github.com/olkb/group-buys)</small>
