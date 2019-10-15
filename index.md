@@ -5,7 +5,7 @@ permalink: /
 
 # OLKB Group Buys
 
-{% for run in site.run %}
+{% for run in site.runs %}
 ## {{ run.title }}
 
 {{ run.content }}
