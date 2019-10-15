@@ -1,0 +1,12 @@
+title: OLKB Group Buys
+email: hello@olkb.com
+locale: en
+description: An open source firmware for AVR and ARM based keyboards
+baseurl: ""
+url: "https://group-buys.olkb.com"
+collections:
+  runs:
+    output: true
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
