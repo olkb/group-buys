@@ -3,7 +3,7 @@ title: "OLKB Group Buys"
 permalink: /
 ---
 
-# OLKB Group Buys
+# OLKB Group Buy Updates
 
 {% for run in site.runs %}
 ## {{ run.title }}
